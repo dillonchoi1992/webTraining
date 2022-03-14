@@ -1,0 +1,19 @@
+.myClass{
+    background-color: cyan;
+    color: black;
+}
+
+.simpleTable{
+    border: 1px solid black;
+    padding: 5px;
+
+}
+
+tr{
+
+}
+
+td{
+    border: 1px solid black; 
+    padding: 5px;
+}
